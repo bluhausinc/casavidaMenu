@@ -1,0 +1,19 @@
+{
+    "name": "Casavida menu",
+    "short_name": "Menu",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F2EEE7",
+    "theme_color": "#F2EEE7",
+    "description": "Casavida Menu",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
