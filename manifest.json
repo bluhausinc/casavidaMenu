@@ -1,11 +1,11 @@
 {
     "name": "Casavida menu",
-    "short_name": "Menu",
+    "short_name": "Casavida",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#F2EEE7",
     "theme_color": "#F2EEE7",
-    "description": "Casavida Menu",
+    "description": "An interactive menu for the Casavida Restaurant",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
